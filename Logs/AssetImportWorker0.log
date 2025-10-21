@@ -202,3 +202,59 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3328.523004 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.045242 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.304857 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(069a656ab4d78e0499661dc6561ee874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts using Guid(069a656ab4d78e0499661dc6561ee874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d92d9f5dfbd004c190f3834709e893') in 0.002307 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 109.379411 seconds.
+  path: Assets/Scripts/GameStateManager.cs
+  artifactKey: Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/GameStateManager.cs using Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52a0c44830315bfc35c78955ff22072') in 0.054582 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 683.724270 seconds.
+  path: Assets/Scripts/GameStateManager.cs
+  artifactKey: Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/GameStateManager.cs using Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ef08a84cc837f32ec036a6647cd65e') in 0.005616 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 70.562107 seconds.
+  path: Assets/Scripts/ReadOnlyInspectorAttribute.cs
+  artifactKey: Guid(a0affd2eeb8bac049b95b684df4fd46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/ReadOnlyInspectorAttribute.cs using Guid(a0affd2eeb8bac049b95b684df4fd46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e226c5352dedfe835ab856b97b09d9') in 0.003424 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 44716.225031 seconds.
+  path: Assets/Scripts/GameStateManager.cs
+  artifactKey: Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/GameStateManager.cs using Guid(5c9a2f01afb668b4eabab7018fcaf30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a153226d8279d77fc30b90509674ee10') in 0.020358 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 300.802990 seconds.
+  path: Assets/Scripts/valueManager.cs
+  artifactKey: Guid(2fd2066a3d077394782689b5c59f4395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/valueManager.cs using Guid(2fd2066a3d077394782689b5c59f4395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f386ec2161c28f3821ff0e528d4ac67') in 0.004681 seconds 
+Number of asset objects unloaded after import = 0
