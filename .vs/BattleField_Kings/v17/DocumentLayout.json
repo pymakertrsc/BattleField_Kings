@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\program\\BattleField_Kings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C863F-86E2-333E-81D9-31066B8B0FB0}|Assembly-CSharp.csproj|e:\\program\\battlefield_kings\\assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C863F-86E2-333E-81D9-31066B8B0FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C863F-86E2-333E-81D9-31066B8B0FB0}|Assembly-CSharp.csproj|e:\\program\\battlefield_kings\\assets\\scripts\\readonlyinspectorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C863F-86E2-333E-81D9-31066B8B0FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\readonlyinspectorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadOnlyInspectorAttribute.cs",
+              "DocumentMoniker": "E:\\program\\BattleField_Kings\\Assets\\Scripts\\ReadOnlyInspectorAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadOnlyInspectorAttribute.cs",
+              "ToolTip": "E:\\program\\BattleField_Kings\\Assets\\Scripts\\ReadOnlyInspectorAttribute.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReadOnlyInspectorAttribute.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:00:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "E:\\program\\BattleField_Kings\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStateManager.cs",
+              "ToolTip": "E:\\program\\BattleField_Kings\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:47:58.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
